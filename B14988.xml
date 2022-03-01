@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true relation of that vvorthy sea fight, which two of the East India shipps, had with 4. Portingals, of great force and burthen, in the Persian Gulph With the lamentable death of Captaine Andrew Shilling. With other memorable accidents, in that voiage. Printed this 2. of Iuly.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14988</idno>
+            <idno type="STC">STC 18507.57A</idno>
+            <idno type="STC">ESTC S101705</idno>
+            <idno type="EEBO-CITATION">99837513</idno>
+            <idno type="PROQUEST">99837513</idno>
+            <idno type="VID">177407</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177407)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1008:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true relation of that vvorthy sea fight, which two of the East India shipps, had with 4. Portingals, of great force and burthen, in the Persian Gulph With the lamentable death of Captaine Andrew Shilling. With other memorable accidents, in that voiage. Printed this 2. of Iuly.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. D[awson] for Nathaniel Newbery and William Sheffard, and are to be sold in Popes-head alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Formerly STC 22433.</note>
+                  <note>Identified as STC 22433 on UMI microfilm reel 1008.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shilling, Andrew, d. 1621 --  Early works to 1800.</term>
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Persian Gulf --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177407:1"/>
+            <pb facs="tcp:177407:1" rendition="simple:additions"/>
+            <pb facs="tcp:177407:2" rendition="simple:additions"/>
+            <p>THE TRVE RELATION OF THAT WOR<g ref="char:EOLhyphen"/>THY SEA FIGHT, WHICH two of the <hi>Eaſt Jndia</hi> Shipps, had with 4. <hi>Portingals,</hi> of great force and bur<g ref="char:EOLhyphen"/>then, in the <hi>Perſian</hi> Gulph.</p>
+            <p>
+               <hi>WITH</hi> THE LAMENTABLE Death of Captaine <hi>Andrew Shilling.</hi>
+            </p>
+            <p>
+               <hi>WITH</hi> OTHER MEMORABLE AC<g ref="char:EOLhyphen"/>CIDENTS, IN THAT <hi>Voiage.</hi>
+            </p>
+            <p>Printed this 2. of Iuly.</p>
+            <p>LONDON Printed by <hi>I. D.</hi> for <hi>Nathaniel Newbery</hi> and <hi>William Sheffard,</hi> and are to be ſold in Popes-head Alley. 1622.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177407:3"/>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>— <hi>Tibi creſcit omne</hi>
+                     </l>
+                     <l>
+                        <hi>Et quod occaſus videt, &amp; quod ortus,</hi>
+                     </l>
+                     <l>
+                        <hi>Parce venturis, tibi mors paramur,</hi>
+                     </l>
+                     <l>
+                        <hi>Sis licet ſequis, properamus ipſi:</hi>
+                     </l>
+                     <l>
+                        <hi>Prima quae vitam dedit hora, carpſit:</hi>
+                     </l>
+                  </lg>
+                  <bibl>Seneca <hi>in</hi> Hercul: <hi>fuerent.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <pb n="1" facs="tcp:177407:3"/>
+            <head>THE LAMENTABLE DEATH OF CAPTAINE <hi>Andrew Shilling,</hi> who was ſlaine by the <hi>Portingals,</hi> in the <hi>Perſian</hi> Gulph.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Will neither talke of the <hi>Roman</hi> glory, nor the <hi>Roman</hi> Vertues, which made that glo<g ref="char:EOLhyphen"/>ry ſo tranſlucent to the lookers on; but how? by commemo<g ref="char:EOLhyphen"/>ration of hyſtory, and publication of their worthineſſe to the world, which was ap<g ref="char:EOLhyphen"/>parant in nothing more, then the rewar<g ref="char:EOLhyphen"/>ding of well deſerving men, or remem<g ref="char:EOLhyphen"/>bring them to poſteritie by ſome relation, or other; thus at this day is the <hi>Common
+<pb n="2" facs="tcp:177407:4"/>Wealth</hi> of <hi>Venice,</hi> famoſed for obſerving the rules of <hi>Ahaſhueroſh,</hi> in keeping the cuſtome of attention to his owne <hi>Chronicles,</hi> and then making a ſtop at <hi>Mordechaies</hi> ſaving his life, asking what had beene done to the man of ſo great deſerving, and when anſwere was made nothing (oh bleſſed be thoſe times, wherein Princes will demand ſuch queſtions, and Courtiers be ſo honeſt to tell the truth) you know what follow<g ref="char:EOLhyphen"/>ed? and my heart leaps for ioy to ſee the Emperour ſo gratious: From hence other <hi>Common-Wealths</hi> haue, or ſhould haue ſuch Regiſters, as a man by <hi>Alphabet</hi> may finde out the memorable actions of others im<g ref="char:EOLhyphen"/>ployed in their Countries ſeruice, or ſuch <hi>Antiquaries</hi> as ſhall expoſe the Noble <hi>Achieu<g ref="char:EOLhyphen"/>ments</hi> of heroijck ſpirits in what kinde ſo ever. As for their interpoſition? that would haue none, but men of Honour, and great <hi>Captaines</hi> nominated, I am ſod<g ref="char:EOLhyphen"/>den in my queſtion, how came they to be ſo Honourable? but from humbled Aunceſtors, and poore beginnings? and all from the advancement and donation of Maieſtick Princes?</p>
+            <pb n="3" facs="tcp:177407:4"/>
+            <p>Oh God? he, that ſaw the <hi>Danow,</hi> and the vaſt mouth of <hi>Hister,</hi> gaping vpon the blacke Sea: hee that looked vpon <hi>Nilus</hi> ſeven gates opening themſelues vpon the <hi>Mediterranean</hi> Sea: Hee that fol<g ref="char:EOLhyphen"/>loweth the <hi>Rhine</hi> in his triple diviſion, and braving the <hi>Ocean</hi> with his ſtreames, and alſo ſaw the weake ſwellings vnder the <hi>Alpes,</hi> or trickling drops come out of the Hils, would wonder at the progreſſe of theſe Rivers, and ſtand amazed to con<g ref="char:EOLhyphen"/>ceiue, that ſuch poore ſprings ſhould in<g ref="char:EOLhyphen"/>creaſe to ſuch huge ſtreames: thus fareth it with men of good deſerving, the more meane, and obſcure, the more glory and honour to make their vertue extend ſo farre, as true notice and memory of their actions, or to ſtepp out of the common tract of drudging and deſpiſed poverty, to take braver ſteps toward renowne, and riches.</p>
+            <p>Therefore I embrace Maſter <hi>Hacklife</hi> for his voyages: the Travellers of our time for their iournals: the Chronolo<g ref="char:EOLhyphen"/>gers for their inventories: the writers of Story, for their records of memorable
+<pb n="4" facs="tcp:177407:5"/>men, and all the lovers of their Country for attempting ſome exploit, or other without inſulting, or oſtentation: and yet remarkable to future ages: yea I proteſt, I thanke him: that ſet out the diſcourſes of the <hi>Iacob</hi> and <hi>Exchange</hi> of <hi>Briſtow,</hi> with their Maſters and Saylers who performed wonders, ere they could bring the ſhips into <hi>England:</hi> and all others, that are ſo touched with truth and deſire not to let paſſe worthy accidents, that they will pub<g ref="char:EOLhyphen"/>liſh honeſt diſcourſes, which ſhall affoord example, or precept to idle ſluggiſh men to be rowſed vp, and take more cheere<g ref="char:EOLhyphen"/>full courſes to doe themſelues, and coun<g ref="char:EOLhyphen"/>try good.</p>
+            <p>I could name many things of wonder, and other men of worth: but that I de<g ref="char:EOLhyphen"/>termine no ſuch heapes, nor to raiſe a poore <hi>Pamphlet,</hi> to ſuch an height, that En<g ref="char:EOLhyphen"/>vies fingers ſhall attempt to pull it downe to rubbiſh, or raging feete preſume to trample it to dirt: I will now onely ſpeake of a man, of whom I am acquainted with nothing but his valour, and skill in his profeſſion, yea I am ſo impartiall, that not
+<pb n="5" facs="tcp:177407:5"/>knowing any friend, or kindred belong<g ref="char:EOLhyphen"/>ing vnto him, I will yet out of meere affec<g ref="char:EOLhyphen"/>tion to vertue, and deſire to worke vpon the governours of Factories, importune them to remember the liuing with re<g ref="char:EOLhyphen"/>ward, and the dead by recompencing their widdowes, and children; and intreat o<g ref="char:EOLhyphen"/>thers to endevour the immitation of well deſervers, and make vſe of <hi>Themiſtocles</hi> ſchol<g ref="char:EOLhyphen"/>lerſhip, who was ſo inflamed with the <hi>Trophes</hi> of <hi>Miltiades,</hi> that he never deſiſted, till he had got the reputation of a great Captaine.</p>
+            <p>This <hi>Andrew Shilling,</hi> of whom I would ſpeake, and am affrayd I ſhall not ſpeake ſufficiently, came from all the degrees of Navall imployment to be maſter of a ſhip, yea, of many ſhips, till at laſt in the time of Sir <hi>Thomas Glover,</hi> whom maſter <hi>Clarke</hi> brought over with his Lady to <hi>Conſtantino<g ref="char:EOLhyphen"/>ple,</hi> he arrived there himſelfe with a ſhip called the <hi>Angell,</hi> which he commanded, as maiſter <hi>Tiler</hi> did the <hi>Dragon.</hi> There was alſo maiſter <hi>Bradſhaw</hi> at <hi>Aleppo,</hi> Captaine <hi>King</hi> at <hi>Xante,</hi> and many other well deſerving men at <hi>Scio, Smirna,</hi> and al the ports of the Levant
+<pb n="6" facs="tcp:177407:6"/>and Arches. But <hi>Shilling</hi> (without impeach<g ref="char:EOLhyphen"/>ment of the credit of others (was ſo liked and looked vpon with the iudicious eyes of the <hi>Eaſt India</hi> Company, that they im<g ref="char:EOLhyphen"/>ployed him thither, and he imployed him<g ref="char:EOLhyphen"/>ſelfe ſo well, and ſo honeſtly, that he diſ<g ref="char:EOLhyphen"/>patched his buſineſſe, and came with Sir <hi>Thomas Roe</hi> (who had beene <hi>Ambaſſadour</hi> to the great <hi>Mogull</hi>) into <hi>England.</hi> But ſee, what it is to thriue? the Marchants mooving in their proper elements for obtaining of wealth, and having had ſome paſſages of diſcontentments with former Captaines, thought it not befitting to be further mo<g ref="char:EOLhyphen"/>leſted, and therefore once againe made choice of maſter <hi>Shilling</hi> to goe another voyage, to which (after his accounts were rendred) he ſo addreſſed himſelfe, that he ſcarce tarried 6 weeks, but vndertooke the buſines. And in a ſhip, called the <hi>London,</hi> was appointed Admirall of that Fleet; the Vice Admirall was the <hi>Hart:</hi> There were alſo two other ſhips in the company, the <hi>Eagle</hi> and the <hi>Roe-buck,</hi> all of great burthen, and daringly able to encounter with a far grea<g ref="char:EOLhyphen"/>ter number.</p>
+            <pb n="7" facs="tcp:177407:6"/>
+            <p>Thus ſhall honeſt men be imployed, and vertue can not be poore, ſo that whether it was their iudgement, and good husban<g ref="char:EOLhyphen"/>dry, or his wiſedome and care to take hold of opportunities fore-top, he thought his time well beſtowed in growing rich, and they thought their choice very happie to make him rich, and ſo vpon reciprocall a<g ref="char:EOLhyphen"/>greement, he tooke the Seas for <hi>Zarret</hi> in the <hi>Eaſt Indies</hi> in the next ſhips, that were readie after Sir <hi>Thomas Roe</hi> came into <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> and after many changes, and varietie of Accidents, boyſterous Seas, and moun<g ref="char:EOLhyphen"/>ting billowes, fearefull ſtormes, and ſome wants, he attained the deſired harbour, had not an vndeſired miſchance flung him downe into the harbour of death: For he periſhed in the Sea by ſlaughter, which was the more lamentable, becauſe by his vallour and directions his Company were victors, and both brought their ſhips to take in their lading at other places, and brought them without loſſe into <hi>England;</hi> but that they counted the loſſe of <hi>Shilling</hi> to exceed halfe the benefit in their beſt fraighted ſhip: but how this came to paſſe?
+<pb n="8" facs="tcp:177407:7"/>if you will giue me leaue to write out a worthy mans Letter, I will not leaue you, till you vnderſtand as much as my ſelfe.</p>
+            <p>After a long and tedious paſſage by the <hi>Ilands,</hi> watring places, and <hi>Cape,</hi> we diſco<g ref="char:EOLhyphen"/>vered divers ſhips, ſome for the <hi>Weſt,</hi> ſome for the <hi>South,</hi> and many, both <hi>Flemmings</hi> and others for their Country: thoſe which were remote we never attended, ſuch as came within kenning had friendly ſaluta<g ref="char:EOLhyphen"/>tions, and many times when we encoun<g ref="char:EOLhyphen"/>tred with ſome friends, extraordinary guſts, and foggy miſts did divide vs, which being vſuall, and the common effect of long iourneyes, we neither wondred at the ſame, nor tarried for further encom<g ref="char:EOLhyphen"/>brances: but came in convenient time to S. <hi>Laurence,</hi> and from thence keeping the common road, we arrived happily at <hi>Za<g ref="char:EOLhyphen"/>retta,</hi> and yet I cannot call it ſo, becauſe of ſome diſaſtrous miſchiefe which hapned vnto vs, and although it was a common thing to encounter with daily miſchances, from tempeſts, enemies, and Pyrats, which were all as eaſily paſſed over, as ſuddenly came vpon vs: yet at this time our loſſe
+<pb n="9" facs="tcp:177407:7"/>and griefe was the greater, becauſe we had not only a wealthy ſhip in our poſſeſſion, but a valiant Captaine to manage our af<g ref="char:EOLhyphen"/>faires, both which we loſt to our great diſ<g ref="char:EOLhyphen"/>comforts, when the malignity of time was overcome with induſtry, and our enemies departed from vs beaten and diſcomfited.</p>
+            <p>Know then, that we haue not had long trade in <hi>Perſia,</hi> till of late ſending euery yeere a ſhip, we acquainted our ſelues with the inhabitants of <hi>Iaſques</hi> in the <hi>Perſi<g ref="char:EOLhyphen"/>an Gulph,</hi> and ſo proceeded with them in orderly traffique, both to their ſatisfaction, &amp; enriching our Marchants, which when the <hi>Portingalis</hi> vnderſtood, they contrived by all poſſible meanes to intercept our ior<g ref="char:EOLhyphen"/>neyes, which they performed both by ſe<g ref="char:EOLhyphen"/>cret plots, and conſpiracie, and open force, and defiances. Concerning the plots they inferred many things againſt vs to the peo<g ref="char:EOLhyphen"/>ple, and kindled a kind of reciprocall iea<g ref="char:EOLhyphen"/>louſie betweene vs: they inticed vs aſhore, vnder cullour of viewing ſtuffs, and com<g ref="char:EOLhyphen"/>modities, and then ſurpriſed vs, taking ma<g ref="char:EOLhyphen"/>ny priſoners by divers ſleights, and vſing vs vnkindly, when they had vs vnder ſub<g ref="char:EOLhyphen"/>iection.
+<pb n="10" facs="tcp:177407:8"/>Concerning their force and pow<g ref="char:EOLhyphen"/>er, they alwayes had fiue or ſixe great <hi>Gal<g ref="char:EOLhyphen"/>lions,</hi> and ſhippes of warre belonging to <hi>Spaine,</hi> &amp; imploied for the ſecuritie of theſe places, and at this inſtant, had foure well appointed ſhips in readines, who lay wat<g ref="char:EOLhyphen"/>ching for our Marchant, as a Hawke ho<g ref="char:EOLhyphen"/>uering ouer the prey, and ſo reſolved to take it, whoſoeuer it was: all which was conſidered of vs in our paſſage, ſo that whe<g ref="char:cmbAbbrStroke">̄</g> we were within 40, or 50. leagues of <hi>Zar<g ref="char:EOLhyphen"/>ret</hi> a <hi>Councell</hi> of warre was called, and <hi>An<g ref="char:EOLhyphen"/>drew Shilling</hi> being our <hi>Admirall,</hi> and Com<g ref="char:EOLhyphen"/>maunder of our ſmall Fleet, concluded to ſend the <hi>Hart</hi> being <hi>vice-Admirall,</hi> and the <hi>Eagle</hi> to <hi>Iaſques</hi> in <hi>Perſia,</hi> and ſo according to our ceremonies, they tooke their leaue of vs, before we came to <hi>Zarret,</hi> and wee went directly to harbour, wher we might haue beene welcommed with all the comforts of friendly greetings, had not the Marchants vnderſtood, what we had done, but apprehenſiue of the danger, they would not ſuffer vs to land, but ſent vs preſently after the other to aſſiſt them: for they knewe, they ſhould bee fought
+<pb n="11" facs="tcp:177407:8"/>with all, if not over-ſet: it was not our turnes to diſpute, nor had we any other part to play but obedience, and ſo wee put to Sea againe, taking a courſe to fol<g ref="char:EOLhyphen"/>low our ſhipps.</p>
+            <p>But we had not beene two dayes vnder ſayle, before wee encountred a <hi>Portingall</hi> of 300. tunne, which at firſt made good ſemblance of <hi>oppoſition,</hi> till wearied with our ſhott, and beaten with a broad ſide, ſhee yeelded her ſelfe, and wee tooke poſſeſſion of her: her Marchandiſe was but Raiſons, and Dates, and fortie two <hi>Arabian</hi> horſes: yet were they worth ſtore of money, and might haue made vs a ſa<g ref="char:EOLhyphen"/>ving iourney.</p>
+            <p>This ſhipp wee carried along with vs thus fraighted, and ſayled a fortnight without any impeachment, or adventure, till at laſt by Gods eternall providence, we met our two ſhips returning home againe to <hi>Zarret,</hi> as not able to encounter with the <hi>Portingals,</hi> whoſe ſtrength and prepara<g ref="char:EOLhyphen"/>tion they reported extraordinary: But the truth is, they were very rich themſelues, and loath to looſe al by any miſadventure,
+<pb n="12" facs="tcp:177407:9"/>which they might eſcape, and not wil<g ref="char:EOLhyphen"/>fully run into: and yet I muſt confeſſe, they had many motiues to fight with them, &amp; daring heartes to the encounter: For all their great burthen, and preparation, wel? they did not? but returned (as I ſayd) and met vs at Sea, diſcourſing at large of the matter, and deſcribing the maner of the Enemies watches, and how brauely and warlike they were appointed: When <hi>Andrew Shilling</hi> had heard them out, and ap<g ref="char:EOLhyphen"/>prehended the vtmoſt perill, hee reſolved to trie his Fortune, and ſet vpon them, proiecting, that if the worſt came, the <hi>Por<g ref="char:EOLhyphen"/>tingall</hi> ſhip formerly taken, ſhould be fiered, and thruſt to them, which when ſome in<g ref="char:EOLhyphen"/>terpoſed, as pittying the loſſe of ſo many braue horſes, he as brauely replyed, how doe they then in the wars, when they are compelled to kill their priſoners in colde blood, and therefore thinke neither of ſcruple, or nicety, but let vs follow the buſineſſe, we take in hand.</p>
+            <p>Thus we concluded to fight, and ſo be<g ref="char:EOLhyphen"/>fitting our ſelues, approched them on the harbour of <hi>Iaſques</hi> on a ſatterday, being
+<pb n="13" facs="tcp:177407:9"/>about the 17. of <hi>December</hi> 1620 and within eight dayes of <hi>Chriſtmas:</hi> and ſo without more adoe we came vp with them, and to them, but the wind being contrary, we could not fight with them in harbour, nor they durſt not ſtirre as we imagined, wher<g ref="char:EOLhyphen"/>vpon we deſiſted for that time, &amp; woond our ſelues away, as if we meant not to fight at all, which queſtionles did much animate them, and made them ſuppoſe, that our former deſiſting and recoyling a<g ref="char:EOLhyphen"/>roſe out of ſuſpition of their greatnes, and power; For the next day being Sunday, they came out of the road, and in a braving and daring maner invited vs to an encoun<g ref="char:EOLhyphen"/>ter, which we intertained with many Na<g ref="char:EOLhyphen"/>vall ceremonies, and putting out our cul<g ref="char:EOLhyphen"/>lours of defiance, with the adorning our ſhips to anſwere their proportion of Gal<g ref="char:EOLhyphen"/>lantneſſe, we made a braue ſhow, as if we meant to intertaine death and ſlaughter with mirth and iollitie.</p>
+            <p>In a word, the Drums &amp; Trumpets ſum<g ref="char:EOLhyphen"/>mon vs, &amp; we went chearfully to the buſi<g ref="char:EOLhyphen"/>nes: Our fight began at eight of the clocke in the morning, and continued to night,
+<pb n="14" facs="tcp:177407:10"/>when the darknes tooke either pitty vpon vs, or by way of oppoſition ſtomached our light: For many times we made fire workes, &amp; ſhot flaming arrowes into their ſhips, we alſo threw burning balls, and ſent caſes full of ſtones, which killed their men without mercy: we alſo ſhot off their <hi>Admiralls</hi> rudder, that they were enforeſt to come to Anchor, and repaire their loſſes, which as it ſhould ſeeme were very great, and ſo the fight continued fearefully be<g ref="char:EOLhyphen"/>tweene vs.</p>
+            <p>In a word, ſuch was the terror and dan<g ref="char:EOLhyphen"/>gerous encounter, that although Captaine <hi>Shilling</hi> our <hi>Admirall</hi> with all the good words, and better actions, which belon<g ref="char:EOLhyphen"/>ged to a principall commander, ſtill com<g ref="char:EOLhyphen"/>forted vs, and as farre as men might con<g ref="char:EOLhyphen"/>iecture, warranted our prevailing at this time: yet Captaine <hi>Beſt</hi> his ſonne, whom they call <hi>Generall</hi> in the <hi>Eaſt Indies,</hi> taking hold of our firſt determination to ſet fire on the Portingall in our poſſeſſion, with the horſes, put it preſently in practiſe, when there was neither reaſon nor cauſe, and when he was furtheſt from all perill,
+<pb n="15" facs="tcp:177407:10"/>and miſchiefe: as we thought we had in<g ref="char:EOLhyphen"/>deed fitted and appointed her to fire, but how? in caſe of neceſſitie, which as yet came not vpon vs, nor was there any like<g ref="char:EOLhyphen"/>lihood more then the chance of encoun<g ref="char:EOLhyphen"/>ters, and fortune of warre to deſparire of prevailing. Well; he tooke out as many things as he thought convenient, leaving moſt part of the Dates and Raiſons in her, and leaving vs in kinde of confuſion to ſee ſo many goodly horſes periſh in the ra<g ref="char:EOLhyphen"/>ging Sea, and ſo to all our griefes ſhe was fired, and thruſt vp to ſtrike amongſt the Portingalls, with ſuppoſition either to de<g ref="char:EOLhyphen"/>ſtroy them, or diſſipate them: But alas all was in vaine, for either the buſines was ill managed, or the Wind ſlacked her courſe, or ſomething or other was amiſſe; for ſhe went not forward, but periſhed in her flames and combuſtion before vs all, effec<g ref="char:EOLhyphen"/>ting no more good, then a generall caſting vp the account of the Accident, wherevn<g ref="char:EOLhyphen"/>to life is ſubiect, and a particular examina<g ref="char:EOLhyphen"/>tion of our owne eſtates, which might be ſubiect to the ſame inconveniences. But to goe forward.</p>
+            <pb n="16" facs="tcp:177407:11"/>
+            <p>I muſt needs confeſſe that if it had plea<g ref="char:EOLhyphen"/>ſed the Captaine, ſeeing he was ſo reſolved, he might haue come nearer and thruſt her vp more cloſer vpon them to their preiu<g ref="char:EOLhyphen"/>dice, and firing indeed; but failing, and thus diſappointed, our fight continued longer, and (as I ſaid) the very night tooke pittie vpon vs, and divided vs, in which darknes they went away into harbour, and being wonderfully torne with our ſhot, and diſ<g ref="char:EOLhyphen"/>membred with croſſe barres, thought it beſt to repaire their ſhips againe, and pro<g ref="char:EOLhyphen"/>vide more men to ſet vpon vs afreſh. The truth is, we let them alone, and gaue way to their good husbandry, anchoring our ſelues in harbour, and preparing to goe a<g ref="char:EOLhyphen"/>bout our marchandice, and ſet forward our traffique. But on a ſudden, within 3. or 4. dayes vnexpected, they came out of the road, &amp; braved vs againe, which when our Captaine <hi>Shilling</hi> perceived, we alſo perceived in him, (which we never did before) very fignes of diſcontent, as if they were preſagers of ſome miſchiefe to fol<g ref="char:EOLhyphen"/>low; For though the valiant man was vn<g ref="char:EOLhyphen"/>daunted, yet as it happens in ſuch caſes of
+<pb n="17" facs="tcp:177407:11"/>ſuſpition, anger, and revenge, he thus ven<g ref="char:EOLhyphen"/>ted out his griefe, as a <hi>Complainant</hi> againſt the <hi>malignitie</hi> of time, and over-ſights of en<g ref="char:EOLhyphen"/>counters.</p>
+            <p>I ſee (quoth he (that in al expeditions op<g ref="char:EOLhyphen"/>portunity is not to be neglected, but ſhee taketh it in ſcorne, that when ſhe openeth her lap, we refuſe her bounty and kindnes: ſo that if we had followed our fortune laſt day, and not ſuffered theſe men to haue breathed in the meditation of revenge, &amp; gone foreward in their reparations, wee had ended the buſines: but now they haue not onely got new breath, but new cou<g ref="char:EOLhyphen"/>rages, and will returne vpon vs with grea<g ref="char:EOLhyphen"/>ter fury and miſchiefe: Beſides there are ſeverall vertues, which are vnſeaſonable in their practiſe, ſuch as wee call pitty, com<g ref="char:EOLhyphen"/>miſeration, and patience, all good for no<g ref="char:EOLhyphen"/>thing in theſe warlike trials, and among pollitick and cruel adverſaries, but to draw on heavier burthens, and make vs ſubiect to fearefull inconveniences; wherefore if I liue, I will never bee guilty of this errour againe, and if I dye, I leaue it to you all as a <hi>principle,</hi> neuer to ſlacke you hand, if you
+<pb n="18" facs="tcp:177407:12"/>finde the enemy ſtaggering, neuer to giue ouer, till you haue made a faire <hi>Compoſition,</hi> or diſpatched the buſines. But come? ſee<g ref="char:EOLhyphen"/>ing we muſt fight, let vs doe it couragiouſ<g ref="char:EOLhyphen"/>ly? that theſe <hi>Portingals</hi> (with many preſi<g ref="char:EOLhyphen"/>dents of former times) may confeſſe, they haue met with <hi>Engliſh-men.</hi>
+            </p>
+            <p>After this briefe and pithy complaint, we prepared our ſelues, and on <hi>Childermas</hi> day our <hi>Admirall</hi> came and anchored by their ſides, whom the <hi>Vice-Admirall</hi> followed, &amp; did the like: the other two ſhipps being ſmaller, &amp; of weaker ſayle, the winde ſma<g ref="char:EOLhyphen"/>ly helping them, could not come fore<g ref="char:EOLhyphen"/>ward, &amp; ſo we were compelled with the <hi>London,</hi> and the <hi>Hart</hi> to make a triall with al the 4. great <hi>Portingals,</hi> which we did in ſuch a maner, that I proteſt (if I might ſcape vaine glory or partialitie) neuer was ſuch a fight ſo wel begun, nor better continued; for we tore them all to peices, and kild ſo many men, that they could ſcarce get away from vs, nor had eſcaped periſhing all, if miſchance had not checked our forward<g ref="char:EOLhyphen"/>nes, and moderated our inſulting with the greateſt loſſe, that we thought we could
+<pb n="19" facs="tcp:177407:12"/>receiue; for in the midſt of the conflict, while we were wrapped in ſmoake, and ſweating in blood, a croſſe ſhot croſt vs all, and ſlue our <hi>Captaine:</hi> yea he periſhed in the midſt of our triumphs, when wee had but ſixe men ſlaine, and very few to ſpeake of, hurt.</p>
+            <p>
+               <hi>Andrew Shilling</hi> periſhed, when we by his valour proſpred, and thought to haue gone cleere away with the Victory. <hi>Andrew Shil<g ref="char:EOLhyphen"/>ling</hi> periſhed to our diſconſolation, &amp; abate<g ref="char:EOLhyphen"/>ment of ioy when we thought of nothing but prevailing: but Wiſedome was at laſt predominant, and in remediles caſes we caſt vp another account of reclaiming our ſelues, and tempring the ſorrow, ſo that we were once againe divided, and the <hi>Portin<g ref="char:EOLhyphen"/>galls</hi> moſt gladly and cunningly departed from vs, and when they were out of ſight we gaue God the prayſe for our delive<g ref="char:EOLhyphen"/>rance, and divided the ſorrow for our <hi>Cap<g ref="char:EOLhyphen"/>taines</hi> loſſe amongſt vs, not a man but be<g ref="char:EOLhyphen"/>moaned his death; not a man but partici<g ref="char:EOLhyphen"/>pated with his vertues; not a man but was the better for his inſtructions; not a man but wondred at his experience and skill in
+<pb n="20" facs="tcp:177407:13"/>Navigation; not a man but lamented his vntimely death; not a man but extolled his timely worthineſſe, and ſo with one con<g ref="char:EOLhyphen"/>ſent, he was buried with all the Ceremo<g ref="char:EOLhyphen"/>nies of a <hi>Generall,</hi> and caſt out of ſight for feare of troubling vs further, and raiſing new extaſies to no purpoſe.</p>
+            <p>This ſecond encounter was more for<g ref="char:EOLhyphen"/>midable then the firſt, and continued lon<g ref="char:EOLhyphen"/>ger, but ended (thanks be to God) as you haue heard to our ſmall detriment at this time, whereby we went forward in our buſines, and were well-commed to <hi>Iaſques</hi> in <hi>Perſia</hi> to advance our traffique. But how many were ſlaine of our enemies we know not, onely we know, their ſhips were made vnſerviceable for the preſent, and report (when we were ſetled in har<g ref="char:EOLhyphen"/>bour) aſſured vs, that they loſt 370. Portin<g ref="char:EOLhyphen"/>galls, beſides Moores and Negroes, of whom they make no account, as being their ſlaues, and ſo ſubiect to all baſeneſſe, proſtitution, and careleſneſſe.</p>
+            <p>I could enlarge this Letter with many oc<g ref="char:EOLhyphen"/>currences in our Voyage, both tending to navigatio<g ref="char:cmbAbbrStroke">̄</g> &amp; diſcourſe, but when our good
+<pb n="21" facs="tcp:177407:13"/>ſhip called the <hi>Hart</hi> commeth into <hi>England,</hi> there are thoſe in her, that will truely and heartily tell you, all you deſire, and more then I am acquainted with: onely I can aſſure you, our trade thriues, and we haue 1200. tunne of lading readie at <hi>Zarret,</hi> but the <hi>Portingals</hi> grow ſtronger, and ſtronger, and prepare themſelues to intercept our ſhips both in the way of revenge, for their former loſſes, and out of covetuouſnes and glory to enrich themſelues, and performe ſome worthy exploit vpon vs; for they heare of our preparation, and know of our riches, which hath made them (as I ſayd) prepare a greater Fleete, and maketh vs aſſured, there is nothing to be expected but encounters and ſlaughters, blood and death, happen when it will and to whom it ſhall.</p>
+            <p>This Letter was written from <hi>Swallo Road,</hi> neere <hi>Zarret</hi> the 20. of <hi>November,</hi> 1621. and brought into <hi>England</hi> with the laſt ſhipps, that came in the beginning of <hi>Iune,</hi> to the comforting of many ſad hearts, &amp; recoue<g ref="char:EOLhyphen"/>ring the ſtaggering opinio<g ref="char:cmbAbbrStroke">̄</g> of the <hi>Eaſt Indiaes</hi> companies thriuing, fro<g ref="char:cmbAbbrStroke">̄</g> whence I proteſt I
+<pb n="22" facs="tcp:177407:14"/>haue extracted nothing but the truth, and if I by way of illuſtration or amplificatio<g ref="char:cmbAbbrStroke">̄</g>, there are ſome things added in the prayſe of the man: Oh, let vertue haue this paſ<g ref="char:EOLhyphen"/>ſage amongſt you, that it is a glory to all <hi>Common-wealths,</hi> neither to obſcure her, as ſhe is of a durable eſſence and exiſtence, nor to be forgetfull of her ſervants, as they are worthie of commemoration, and well deſerving in their ſeverall places, wherein God hath be<g ref="char:EOLhyphen"/>ſtowed them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177407:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
